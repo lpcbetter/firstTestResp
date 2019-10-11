@@ -4,4 +4,6 @@ hahahah
 hhhhhhhhhhhhhhhh
 yyyyyyyyyyy
 sdfdgfaaaaaaaaaaa
-主分支修改演示冲突
+
+其他分支也修改了first的内容
+>>>>>>> lpc
